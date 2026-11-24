@@ -1,0 +1,27 @@
+# SPDX-License-Identifier: GPL-2.0-only
+# Keep generated artifacts and excluded publication categories out of this repository.
+*.o
+*.ko
+*.a
+*.so
+*.so.*
+*.bin
+*.dtb
+*.dtbo
+*.dts
+*.dtsi
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+.config
+.config.*
+vmlinux
+vmlinuz
+zImage
+Image
+Module.symvers
+modules.order
