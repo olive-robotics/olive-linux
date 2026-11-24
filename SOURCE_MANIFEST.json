@@ -426,7 +426,7 @@
       "path": "Documentation/admin-guide/cifs/winucase_convert.pl",
       "size": 1614,
       "sha256": "c5aed2ba1f3d8064ad63657cdf0069f86e50e3bb917de75d2179138a59af12d7",
-      "license": "GPL (legacy file notice; version retained in original file)",
+      "license": "GPL-3.0-or-later",
       "basis": "legacy_notice",
       "modified": false,
       "base_blob": "993186beea206324474a1a0bd2218c961165e34a",
@@ -458846,7 +458846,7 @@
       "path": "tools/testing/selftests/mqueue/mq_open_tests.c",
       "size": 15885,
       "sha256": "419088e4b5f6ec2a2cc1dc8788c2ece0febca29897c8f295010778236f88f4d3",
-      "license": "GPL (legacy file notice; version retained in original file)",
+      "license": "GPL-3.0-only",
       "basis": "legacy_notice",
       "modified": false,
       "base_blob": "9403ac01ba11d2cda84e2184c5168ea9abb68ebe",
@@ -458856,7 +458856,7 @@
       "path": "tools/testing/selftests/mqueue/mq_perf_tests.c",
       "size": 21917,
       "sha256": "443a6d30193506a250e2592324ed8bd3161ecd1cd52680078bd626c62613cd33",
-      "license": "GPL (legacy file notice; version retained in original file)",
+      "license": "GPL-3.0-only",
       "basis": "legacy_notice",
       "modified": false,
       "base_blob": "b019e0b8221c7c0bf565d163e141d9e69d37014f",
@@ -466482,5 +466482,12 @@
       "base_blob": "c9bb3957f58a72eefb3865f07c669be73deb4faa",
       "git_blob": "c9bb3957f58a72eefb3865f07c669be73deb4faa"
     }
+  ],
+  "notice_files": [
+    "COPYING",
+    "COPYING.GPL-3.0",
+    "linux/COPYING",
+    "linux/LICENSES/preferred/GPL-2.0",
+    "linux/LICENSES/exceptions/Linux-syscall-note"
   ]
 }

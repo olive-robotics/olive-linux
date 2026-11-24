@@ -46,6 +46,8 @@ release have not been established.
 The original per-file notices govern each source file. Some GPL files permit
 later GPL versions; files with `Linux-syscall-note` retain that exception.
 The original kernel `COPYING` and referenced GPL/exception texts are included.
+Three retained userspace helper/test files use GPLv3; their notices are
+preserved and a full copy of GPLv3 is provided in `COPYING.GPL-3.0`.
 Repository documentation and generated metadata are provided under GPL-2.0-only;
 see the root `COPYING`.
 
